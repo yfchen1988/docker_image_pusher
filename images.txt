@@ -3,6 +3,7 @@ ghcr.io/xtls/xray-core
 ghcr.io/wg-easy/wg-easy
 teddysun/kms
 teddysun/xray
+ubuntu
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
