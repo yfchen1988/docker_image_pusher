@@ -1,4 +1,5 @@
 nginx
+debian
 ghcr.io/xtls/xray-core
 ghcr.io/wg-easy/wg-easy
 teddysun/kms
