@@ -1,13 +1,7 @@
 nginx
-debian
 ghcr.io/xtls/xray-core
-ghcr.io/wg-easy/wg-easy
 teddysun/kms
 teddysun/xray
-ubuntu
-wordpress
-mysql
-mariadb
 stirlingtools/stirling-pdf
 stirlingtools/stirling-pdf:latest-fat
 #支持私库
