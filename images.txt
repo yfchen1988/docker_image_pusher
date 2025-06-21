@@ -2,6 +2,7 @@ nginx
 ghcr.io/xtls/xray-core
 teddysun/kms
 teddysun/xray
+mysql
 stirlingtools/stirling-pdf
 stirlingtools/stirling-pdf:latest-fat
 #支持私库
