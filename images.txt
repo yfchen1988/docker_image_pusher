@@ -5,6 +5,7 @@ teddysun/xray
 mysql
 stirlingtools/stirling-pdf
 stirlingtools/stirling-pdf:latest-fat
+docker.n8n.io/n8nio/n8n
 linuxserver/wireguard
 cloudflare/cloudflared
 #支持私库
