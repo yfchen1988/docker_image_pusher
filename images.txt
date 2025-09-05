@@ -3,7 +3,7 @@ jeessy/ddns-go
 --platform=linux/arm64 jeessy/ddns-go
 ghcr.io/xtls/xray-core
 teddysun/kms
---platform=linux/arm64teddysun/kms
+--platform=linux/arm64 teddysun/kms
 teddysun/xray
 mysql
 stirlingtools/stirling-pdf
