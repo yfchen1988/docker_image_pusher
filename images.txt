@@ -1,14 +1,13 @@
 nginx
+jeessy/ddns-go
 ghcr.io/xtls/xray-core
 teddysun/kms
 teddysun/xray
 mysql
 stirlingtools/stirling-pdf
 stirlingtools/stirling-pdf:latest-fat
-linuxserver/wireguard
 cloudflare/cloudflared
 adguard/adguardhome
-ghcr.io/wg-easy/wg-easy
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
