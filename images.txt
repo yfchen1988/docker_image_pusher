@@ -1,7 +1,9 @@
 nginx
 jeessy/ddns-go
+jeessy/ddns-go --platform=linux/arm64
 ghcr.io/xtls/xray-core
 teddysun/kms
+teddysun/kms --platform=linux/arm64
 teddysun/xray
 mysql
 stirlingtools/stirling-pdf
