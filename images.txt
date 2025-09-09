@@ -1,4 +1,5 @@
 nginx
+--platform=linux/arm64 nginx
 jeessy/ddns-go
 --platform=linux/arm64 jeessy/ddns-go
 ghcr.io/xtls/xray-core
