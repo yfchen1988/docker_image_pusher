@@ -9,8 +9,8 @@ teddysun/xray
 mysql
 stirlingtools/stirling-pdf
 stirlingtools/stirling-pdf:latest-fat
---platform=stirlingtools/stirling-pdf
---platform=stirlingtools/stirling-pdf:latest-fat
+--platform=linux/arm64  stirlingtools/stirling-pdf
+--platform=linux/arm64  stirlingtools/stirling-pdf:latest-fat
 cloudflare/cloudflared
 --platform=linux/arm64 cloudflare/cloudflared
 adguard/adguardhome
