@@ -5,6 +5,8 @@ jeessy/ddns-go
 ghcr.io/xtls/xray-core
 teddysun/kms
 --platform=linux/arm64 teddysun/kms
+ghcr.io/librespeed/speedtest
+--platform=linux/arm64 ghcr.io/librespeed/speedtest
 teddysun/xray
 mysql
 stirlingtools/stirling-pdf
